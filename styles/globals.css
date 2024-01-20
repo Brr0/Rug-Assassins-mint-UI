@@ -43,9 +43,9 @@
 html,
 body {
   background-image: url("../public/background.png");
-  background-position: center; /* Center the image */
-  background-repeat: repeat; /* Do not repeat the image */  
+  background-repeat: no-repeat; /* Do not repeat the image */  
   overflow-x: hidden;
+  background-size: cover;
 }
 
 body {
