@@ -39,9 +39,9 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta property="og:title" content={headerText} />
         <meta
           property="og:description"
-          content="A1 Mining mint page"
+          content="Rug Assassins mint page"
         />
-        <meta name="description" content="A1 Mining mint page" />
+        <meta name="description" content="Rug Assassins mint page" />
 
         <meta
           property="og:image"
